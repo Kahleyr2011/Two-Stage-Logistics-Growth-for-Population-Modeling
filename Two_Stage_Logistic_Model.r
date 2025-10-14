@@ -11,7 +11,7 @@ library(tidyverse)
 
 # ---- 2. User Inputs ----
 inputs <- list(
-  P0 = 18,         # Initial population
+  P0 = 146,         # Initial population
   r_guess = 0.5,   # Initial guess for growth rate
   K_guess = 4000,  # Initial guess for carrying capacity
   r_min = 0,       # Lower bound for r
